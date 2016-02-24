@@ -1,2 +1,5 @@
-bon dia,que pasi voste un magnific dia,
+<<<<<<< HEAD
+bon dia,que pasi voste un magnific dia,que te den
 bon diiiiiiaaaaa
+=======
+
